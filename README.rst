@@ -9,7 +9,7 @@ Installation
 
 .. code-block:: bash
 
-    pip install git+https://github.com/maamounhajnajeeb/tutor-contrib-disable-public-signup
+    pip install tutor-contrib-disable-public-signup==1.0.0
 
 Usage
 *****
