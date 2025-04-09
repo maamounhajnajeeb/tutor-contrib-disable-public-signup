@@ -1,0 +1,2 @@
+recursive-include tutordisable_public_signup/patches *
+recursive-include tutordisable_public_signup/templates *
